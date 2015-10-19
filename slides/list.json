@@ -19,7 +19,11 @@
         "the-production-problem.md",
         "early-production-solutions.md",
         "today-s-landscape.md",
-        "laptop-to-cloud.md"
+        {
+            "attr": {
+                "data-background": "img/laptop-to-cloud.png"
+            }
+        }
     ],
     "wpengine-mercury-vagrant.md",
     "docker.md",

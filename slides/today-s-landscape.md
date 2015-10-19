@@ -1,7 +1,5 @@
-##  Today&#39;s Landscape
-
-This is a new Markdown slide
+##  Today?
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    But is it enough?  
+    How many of you have a code deployment checklist? How many of you have a server configuration checklist? How many of you have seen parts of those checklists ignored?
