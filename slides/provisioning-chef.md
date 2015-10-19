@@ -1,7 +1,6 @@
 ##  Provisioning - Chef
 
-This is a new Markdown slide
+<img src="img/provision-chef.png" />
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Chef is written in a combination of Ruby and Erlang - for provisioning you’ll most likely use Ruby. Chef has been around since 2009.

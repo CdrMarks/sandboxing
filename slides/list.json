@@ -13,7 +13,7 @@
         "provisioning-saltstack.md",
         "provisioning-puppet.md",
         "provisioning-chef.md",
-        "provisioning-ansible.md",
+        "provisioning-ansible.md"
     ],
     [
         "the-production-problem.md",

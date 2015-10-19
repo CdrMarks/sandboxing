@@ -1,7 +1,6 @@
 ##  Varying Vagrant Vagrants
 
-This is a new Markdown slide
+What’s even better: it’s disposable!
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    The goal was to create a disposable local environment that somewhat mirrored our production environments. You could shut it off at the end of the day, throw it away when a project was complete, or even install temporary software in the VM and recycle the data when you were done.

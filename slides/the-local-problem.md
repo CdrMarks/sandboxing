@@ -1,7 +1,10 @@
 ##  The Local Problem
 
-This is a new Markdown slide
+<ul>
+    <li class="fragment">How can I reproduce the issue locally?</li>
+    <li class="fragment">How can I test my code before a deployment?</li>
+    <li class="fragment">How can I work on a website without a network connection?</li>
+</ul>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    If you develop on a laptop, you’ve probably faced these three questions before. You might have even come up with your own solutions …

@@ -1,7 +1,6 @@
 ##  Provisioning - Puppet
 
-This is a new Markdown slide
+<img src="img/provision-puppet.png" />
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Puppet is a similar provisioning tool, written in Ruby. Unlike Salt and Bash, it can also be run on Windows. Puppet has been around since 2005, so it’s got a fairly stable community.
