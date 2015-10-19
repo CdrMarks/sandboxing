@@ -1,20 +1,26 @@
 [
     "index.md",
-    "the-local-problem.md",
-    "early-solutions.md",
-    "good-enough.md",
+    [
+        "the-local-problem.md",
+        "early-solutions.md",
+        "good-enough.md"
+    ],
     "wordpress-meet-vagrant.md",
     "varying-vagrant-vagrants.md",
     "evolution.md",
-    "provisioning-bash.md",
-    "provisioning-saltstack.md",
-    "provisioning-puppet.md",
-    "provisioning-chef.md",
-    "provisioning-ansible.md",
-    "the-production-problem.md",
-    "early-production-solutions.md",
-    "today-s-landscape.md",
-    "laptop-to-cloud.md",
+    [
+        "provisioning-bash.md",
+        "provisioning-saltstack.md",
+        "provisioning-puppet.md",
+        "provisioning-chef.md",
+        "provisioning-ansible.md",
+    ],
+    [
+        "the-production-problem.md",
+        "early-production-solutions.md",
+        "today-s-landscape.md",
+        "laptop-to-cloud.md"
+    ],
     "wpengine-mercury-vagrant.md",
     "docker.md",
     "iterate-iterate-iterate.md",
