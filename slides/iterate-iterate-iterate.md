@@ -1,7 +1,6 @@
-##  Iterate iterate iterate
+“The things that we know and learn by releasing stuff,<br/>we never could have learned otherwise…”
 
-This is a new Markdown slide
+\- _Matt Mullenweg_
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Iterate, iterate, iterate ...
