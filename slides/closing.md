@@ -1,8 +1,7 @@
 ##  Closing
 
-- Eric Mann - Lead Web Engineer at [10up](http://10up.com)
-- [@ericmann](https://twitter.com/ericmann)
-- [https://eamann.com](https://eamann.com)
+- Ryan Marks - Director of Operations & Infrastructure at [Randall-Reilly](http://www.randallreilly.com.com)
+- [@CdrMarks](https://twitter.com/cdrmarks)
 
 note:
     If this is the kind of thing that interests you, we're hiring ...
