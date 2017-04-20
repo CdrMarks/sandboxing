@@ -19,7 +19,7 @@ body {
   background: -ms-radial-gradient(center, circle cover, #555a5f 0%, #1c1e20 100%);
   background: radial-gradient(center, circle cover, #555a5f 0%, #1c1e20 100%);
   background-color: #222;
-  background-image: url("img/rr_background.png");
+  background-image: url("../img/rr_background.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #222; }
